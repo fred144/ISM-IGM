@@ -1,7 +1,7 @@
                                                           Cloudy 23.01
                                                          www.nublado.org
 
-                                                  PRNG seed: 0x434936e1ce004caf
+                                                  PRNG seed: 0x649b533f5b8b9e62
 
                        **************************************23Jul25**************************************
                        *                                                                                 *
@@ -181,6 +181,8 @@
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -190,7 +192,9 @@
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -739,7 +743,7 @@ He 1                1.27894m   33.870    0.0028      S  2                912.736
    <a>:3.81E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.36E+19  M(sun):2.44E+05  a_ox tran:  0.00
  Rion:1.578E+18  Dist:3.09E+21  Diam:2.110E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    10.0
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime     9.5
  ConvrgError(%)  <eden>  0.044  MaxEden  0.368  <H-C>   0.07  Max(H-C)    0.41  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   3.9  elec den   5.5  n(H2)    0.0  n(CO)        0.0
 
@@ -1153,6 +1157,8 @@ hw1 v1
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -1162,7 +1168,9 @@ hw1 v1
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -1683,7 +1691,7 @@ He 1                3498.61A   33.923    0.0031      S  2                1.03364
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.43E+19  M(sun):2.51E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    18.0
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    15.9
  ConvrgError(%)  <eden>  0.046  MaxEden  0.370  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -2098,6 +2106,8 @@ hw1 v1
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -2107,7 +2117,9 @@ hw1 v1
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -2628,7 +2640,7 @@ He 1                3498.60A   34.142    0.0052      S  2                1.02867
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.42E+19  M(sun):2.50E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    26.5
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    22.5
  ConvrgError(%)  <eden>  0.046  MaxEden  0.376  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -3043,6 +3055,8 @@ hw1 v1
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -3052,7 +3066,9 @@ hw1 v1
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -3573,7 +3589,7 @@ He 1                3498.60A   34.142    0.0052      S  2                1.02867
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.42E+19  M(sun):2.51E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    33.8
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    29.1
  ConvrgError(%)  <eden>  0.045  MaxEden  0.374  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -3988,6 +4004,8 @@ hw1 v1
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -3997,7 +4015,9 @@ hw1 v1
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -4518,7 +4538,7 @@ He 1                3498.60A   34.142    0.0052      S  2                1.02867
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.42E+19  M(sun):2.50E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    41.5
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    35.9
  ConvrgError(%)  <eden>  0.045  MaxEden  0.374  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -4933,6 +4953,8 @@ hw1 v1
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -4942,7 +4964,9 @@ hw1 v1
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -5463,7 +5487,7 @@ He 1                3498.60A   34.142    0.0052      S  2                1.02867
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.43E+19  M(sun):2.51E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    49.4
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    42.3
  ConvrgError(%)  <eden>  0.045  MaxEden  0.373  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -5878,6 +5902,8 @@ hw1 v1
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -5887,7 +5913,9 @@ hw1 v1
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -6408,7 +6436,7 @@ He 1                3498.60A   34.142    0.0052      S  2                1.02867
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.42E+19  M(sun):2.51E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    57.5
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    48.7
  ConvrgError(%)  <eden>  0.043  MaxEden  0.373  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -6823,6 +6851,8 @@ hw1 v1
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -6832,7 +6862,9 @@ hw1 v1
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -7353,7 +7385,7 @@ He 1                3498.60A   34.142    0.0052      S  2                1.02867
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.42E+19  M(sun):2.51E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    66.1
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    56.1
  ConvrgError(%)  <eden>  0.045  MaxEden  0.373  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -7768,6 +7800,8 @@ hw1 v1
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -7777,7 +7811,9 @@ hw1 v1
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -8298,7 +8334,7 @@ He 1                3498.60A   34.142    0.0052      S  2                1.02867
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.42E+19  M(sun):2.51E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    73.9
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    63.9
  ConvrgError(%)  <eden>  0.045  MaxEden  0.374  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -8602,6 +8638,12 @@ WARNING: no exact matching lines found for "H  1" 4861.33A
 Taking best match as "H  1                4861.32A"
 WARNING: no exact matching lines found for "H  1" 6562.81A
 Taking best match as "H  1                6562.80A"
+WARNING: no exact matching lines found for "N  2" 5756.20A
+Taking best match as "N  2                5754.59A"
+WARNING: no exact matching lines found for "N  2" 6585.30A
+Taking best match as "N  2                6583.45A"
+Possible ambiguity with "N  2                6548.05A"
+Possible ambiguity with "N  2                6527.23A"
 WARNING: no exact matching lines found for "O  2" 3727.10A
 Taking best match as "O  2                3726.03A"
 Possible ambiguity with "O  2                3728.81A"
@@ -8616,6 +8658,11 @@ Possible ambiguity with "S  2                6730.82A"
 WARNING: no exact matching lines found for "S  2" 6732.70A
 Taking best match as "S  2                6730.82A"
 Possible ambiguity with "S  2                6716.44A"
+WARNING: no exact matching lines found for "O  3" 4364.40A
+Taking best match as "O  3                4363.21A"
+WARNING: no exact matching lines found for "O  3" 5008.20A
+Taking best match as "O  3                5006.84A"
+Possible ambiguity with "O  3                4958.91A"
 WARNING: no exact matching lines found for "BLND" 4363.00A
 WARNING: Line with incorrect label found close "O 3R                4363.00A"
 WARNING: Line with incorrect label found close "O 3C                4363.00A"
@@ -8735,6 +8782,8 @@ Taking best match as "Blnd                4368.00A"
                        * H  1  6562.81A                                                                  *
                        * Ca B  5875.64A                                                                  *
                        * N  2  6583.45A                                                                  *
+                       * N  2  5756.20A                                                                  *
+                       * N  2  6585.30A                                                                  *
                        * O  1  6300.30A                                                                  *
                        * O  2  3726.03A                                                                  *
                        * O  2  3727.10A                                                                  *
@@ -8744,7 +8793,9 @@ Taking best match as "Blnd                4368.00A"
                        * S  2  6718.30A                                                                  *
                        * S  2  6730.82A                                                                  *
                        * S  2  6732.70A                                                                  *
+                       * O  3  4364.40A                                                                  *
                        * O  3  5006.84A                                                                  *
+                       * O  3  5008.20A                                                                  *
                        * BLND  4363.00A                                                                  *
                        * Cl 3  5517.71A                                                                  *
                        * Cl 3  5537.87A                                                                  *
@@ -9265,7 +9316,7 @@ He 1                3498.60A   34.142    0.0052      S  2                1.02867
    <a>:3.83E-07  erdeFe0.0E+00  Tcompt1.21E+06  Tthr2.55E+10  <Tden>: 7.60E+03  <dens>:2.33E-21  <MolWgt>6.44E-01
      Mean Jeans  l(cm)1.03E+20  M(sun)6.69E+05  smallest:     len(cm):7.43E+19  M(sun):2.51E+05  a_ox tran:  0.00
  Rion:1.577E+18  Dist:3.09E+21  Diam:2.108E+02
- Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    82.1
+ Hatom level 25  HatomType: add  HInducImp  F  He tot level: 23  He2 level:   25  ExecTime    70.8
  ConvrgError(%)  <eden>  0.042  MaxEden  0.372  <H-C>   0.08  Max(H-C)    0.48  <Press>   0.000  MaxPrs er  0.000
   Continuity(%)  chng Te   4.7  elec den   5.4  n(H2)    0.0  n(CO)        0.0
 
@@ -9892,5 +9943,5 @@ hw1 v1
          1 mean step length searches/chemistry step
 ----------------------------------------------------
 
- Cloudy ends: 222 zones, 10 iterations. (single thread) ExecTime(s) 82.10
+ Cloudy ends: 222 zones, 10 iterations. (single thread) ExecTime(s) 70.80
  [Stop in cdMain at maincl.cpp:593, Cloudy exited OK]

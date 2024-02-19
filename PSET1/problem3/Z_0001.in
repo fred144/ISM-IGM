@@ -5,7 +5,7 @@ set punch prefix "Z_0001"
 Blackbody 36870.000000
 q(H) = 48.750
 radius = 16.699
-hden = 3.000
+hden = 4.000
 filling factor = 1.0
 abundances hii region no grains
 metals 0.001
