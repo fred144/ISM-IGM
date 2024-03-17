@@ -1,21 +1,11 @@
-Blackbody 4.36e4 K
-Q(H) 49.34
+Blackbody 43600 
+q(H) = 49.34
 extinguish 23 0
-# the log of the inner radius of the cloudy in cm
-Radius 16  
+radius = 16  
 stop temperature off
 stop Av 10
-
-Hden 4   # the log of the hydrogen density in cm^-3
-# the following uses ISM (depleted) abundances and grains
-Abundances ISM
+abundances ISM
 grains PAH 3.0 linear
-metals and grains 1.0 linear
-
-# the galactic cosmic ray background, needed to get the chemistry right
-Cosmic rays background 1.0 linear
-#
-# these save results of the calculation in external files
 Save overview ".ovr" last no hash
 Save continuum ".con" units microns last no hash
 Save cooling ".col" last no hash

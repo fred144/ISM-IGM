@@ -1,0 +1,52 @@
+#####################################
+title model_1_0.1_1
+#####################################
+set punch prefix "model_1_0.1_1"
+hden = 4.000
+filling factor = 1.0
+abundances ism
+metals grains 0.1 linear
+cosmic ray background 1.0 linear
+Blackbody 43600
+q(H) = 49.34
+extinguish 23 0
+radius = 16
+stop temperature off
+stop Av 10
+abundances ISM
+grains PAH 3.0 linear
+Save overview ".ovr" last no hash
+Save continuum ".con" units microns last no hash
+Save cooling ".col" last no hash
+Save heating ".het" last no hash
+Save molecules ".mol" last no hash
+Save dominant rates ".rh2" "H2" last
+Save dominant rates ".rco" "CO" last
+Save dominant rates ".roh" "OH" last
+Save ages ".age" last
+
+***************
+
+anything after blank line or field of stars is ignored
+Save emitted continuum "HII.econ" units microns last no hash
+save last radius ".rad"
+save last continuum ".cont"
+save last physical conditions ".phy"
+save last overview ".ovr"
+save last heating ".heat"
+save last cooling ".cool"
+save last optical depth ".opd"
+save last grain temperature ".gtemp"
+save last grain abundances ".gabund"
+save last grain D/G ratio ".gdgrat"
+save last element hydrogen ".ele_H"
+save last element helium ".ele_He"
+save last element carbon ".ele_C"
+save last element nitrogen ".ele_N"
+save last element oxygen ".ele_O"
+save last element argon ".ele_Ar"
+save last element neon ".ele_Ne"
+save last element sulphur ".ele_S"
+save last element chlorin ".ele_Cl"
+save last element iron ".ele_Fe"
+save last element silicon ".ele_Si"
