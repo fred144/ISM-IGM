@@ -1,0 +1,62 @@
+                                                          Cloudy 23.01
+                                                         www.nublado.org
+
+                                                  PRNG seed: 0x7d3c47bd2e377b82
+
+                       **************************************23Jul25**************************************
+                       *                                                                                 *
+                       * title cloudy topheavy metal1e-4                                                 *
+                       * set punch prefix "cloudy_topheavy_metal1e-4"                                    *
+                       * radius = 16.699                                                                 *
+                       * hden = 4.000                                                                    *
+                       * filling factor = 1.0                                                            *
+                       * abundances hii no grains                                                        *
+                       * metals 0.001                                                                    *
+                       * distance = 100000000000.0 parsecs linear                                        *
+                       * no molecules                                                                    *
+                       * no level2 lines                                                                 *
+                       * no fine opacities                                                               *
+                       * atom h-like levels small                                                        *
+                       * atom he-like levels small                                                       *
+                       * COSMIC RAY BACKGROUND                                                           *
+                       * element limit off -8                                                            *
+                       * print line optical depth                                                        *
+                       * table stars "./topheavy_metal1e-4/starburst99.ascii" age=1e6 years              *
+                       * #<< ./topheavy_m model    1 read.       Age =      10000.00                 >>> *
+                       * #<< ./topheavy_m model    2 read.       Age =    2010000.00                 >>> *
+                       * #<< FINAL:     Age =    1000000.00                                          >>> *
+                       * iterate 100                                                                     *
+                       * sphere                                                                          *
+                       * save last radius ".rad"                                                         *
+                       * save last continuum ".cont"                                                     *
+                       * save last physical conditions ".phy"                                            *
+                       * save last overview ".ovr"                                                       *
+                       * save last heating ".heat"                                                       *
+                       * save last cooling ".cool"                                                       *
+                       * save last optical depth ".opd"                                                  *
+                       * save last element hydrogen ".ele_H"                                             *
+                       * save last element helium ".ele_He"                                              *
+                       * save last element carbon ".ele_C"                                               *
+                       * save last element nitrogen ".ele_N"                                             *
+                       * save last element oxygen ".ele_O"                                               *
+                       * save last element argon ".ele_Ar"                                               *
+                       * save last element neon ".ele_Ne"                                                *
+                       * save last element sulphur ".ele_S"                                              *
+                       * save last element chlorin ".ele_Cl"                                             *
+                       * save last element iron ".ele_Fe"                                                *
+                       * save last element silicon ".ele_Si"                                             *
+                       * save last lines emissivity  ".emis"                                             *
+                       *                                                                                 *
+                       ***********************************************************************************
+
+
+
+ PROBLEM DISASTER Luminosity of continuum MUST be specified.
+ PROBLEM DISASTER There were not the same number of continuum shapes and luminosities entered.
+ PROBLEM DISASTER I do not have enough information to do the simulation, I cannot go on.
+
+
+ Sorry.
+
+
+ [Stop in ParseCommands at parse_commands.cpp:827, something went wrong]
