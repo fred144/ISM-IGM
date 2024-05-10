@@ -5,7 +5,7 @@ set punch prefix "cloudy_topheavy_metal1e-4"
 radius = 16.699
 hden = 4.000
 filling factor = 1.0
-abundances ism no grains
+abundances hii no grains
 metals 0.0001
 distance = 100000000000.0 parsecs linear
 no molecules
